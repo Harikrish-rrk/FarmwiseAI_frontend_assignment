@@ -1,0 +1,1 @@
+# FarmwiseAI_frontend_assignment
